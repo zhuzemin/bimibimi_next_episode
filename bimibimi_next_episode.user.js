@@ -4,8 +4,8 @@
 // @name:zh-TW        bimibimi自動下集
 // @namespace      bimibimi_next_episode
 // @description    bimibimi auto next episode
-// @description:zh-CN bimibimi自动下集
-// @description:zh-TW bimibimi自動下集
+// @description:zh-CN bimibimi自动播放下集
+// @description:zh-TW bimibimi自動播放下集
 // @include        http://49.234.56.246/danmu/play.php?url=*
 // @include        http://www.bimiacg.com/bangumi/*
 // @run-at      document-end
